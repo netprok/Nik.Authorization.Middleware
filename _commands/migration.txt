@@ -1,0 +1,5 @@
+dotnet tool update --global dotnet-ef
+
+dotnet ef migrations add m_001 -c SsoDbContext -p "./Nke.Sso.Models.Db/Nke.Sso.Models.Db.csproj" -s "./Nke.Sso.Seeder/Nke.Sso.Seeder.csproj"
+
+-- todo: add function userpermission using  migrationBuilder.Sql("""
