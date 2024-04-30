@@ -1,4 +1,4 @@
-﻿namespace Nke.Sso.Authorization.Middleware;
+﻿namespace NiC.Authorization.Middleware;
 
 public sealed class PermissionAuthorizationPolicyProvider(IOptions<AuthorizationOptions> options) : DefaultAuthorizationPolicyProvider(options)
 {
