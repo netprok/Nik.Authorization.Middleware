@@ -2,7 +2,7 @@
 
 public static class ServicesExtensions
 {
-    public static IServiceCollection AddNiCAuthorizationMiddleware(this IServiceCollection services)
+    public static IServiceCollection AddNikAuthorizationMiddleware(this IServiceCollection services)
     {
         services
             .AddAuthorization()
