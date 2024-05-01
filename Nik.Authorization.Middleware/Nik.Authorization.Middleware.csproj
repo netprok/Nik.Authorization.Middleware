@@ -18,8 +18,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
-    <PackageReference Include="NiC.Authentication.Abstractions" Version="1.0.0" />
-    <PackageReference Include="NiC.Authorization.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Nik.Authentication.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Nik.Authorization.Abstractions" Version="1.0.0" />
     <PackageReference Include="NuGet.CommandLine" Version="6.9.1">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>

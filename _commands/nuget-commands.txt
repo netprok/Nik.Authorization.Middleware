@@ -1,3 +1,3 @@
 dotnet pack -c Release -p:Version=1.0.0
 
-nuget add '.\NiC.Authorization.Middleware\bin\Release\NiC.Authorization.Middleware.1.0.0.nupkg' -source 'D:\OneDrive\Software Development\nic-nuget-package-source'
+nuget add '.\Nik.Authorization.Middleware\bin\Release\Nik.Authorization.Middleware.1.0.0.nupkg' -source 'D:\OneDrive\Software Development\nik-nuget-package-source'

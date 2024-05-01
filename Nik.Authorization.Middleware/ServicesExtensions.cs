@@ -1,4 +1,4 @@
-﻿namespace NiC.Authorization.Middleware;
+﻿namespace Nik.Authorization.Middleware;
 
 public static class ServicesExtensions
 {

@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_commands", "_commands", "{
 		_commands\nuget-commands.txt = _commands\nuget-commands.txt
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NiC.Authorization.Middleware", "NiC.Authorization.Middleware\NiC.Authorization.Middleware.csproj", "{2969BE3B-E197-48AC-8AC3-608CC25C4076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nik.Authorization.Middleware", "Nik.Authorization.Middleware\Nik.Authorization.Middleware.csproj", "{2969BE3B-E197-48AC-8AC3-608CC25C4076}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF11DADC-3436-44E7-A57F-1855700F2F1F}"
 	ProjectSection(SolutionItems) = preProject
